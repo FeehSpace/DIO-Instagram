@@ -6,6 +6,4 @@
 
 DIO - Projeto Instagram. Gabriela Pinheiro. 01/12/2020
 
-https://imgur.com/a/6y6x0NS
-
-![instagram](C:\Users\Hamilton\Downloads\image.jpg)
+![instagram](https://github.com/FeehSpace/DIO-Instagram/blob/main/DIO-instagram/img/image.jpg)
